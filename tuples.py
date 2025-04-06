@@ -1,4 +1,7 @@
-# tuple cannot be changes
+# tuple cannot be changes/
 
-colours = ("red", "green", "blue")
-print(colours[2])
+# colours = ("red", "green", "blue")
+# print(colours[2])
+
+car = ("car1",)
+print(type(car))
